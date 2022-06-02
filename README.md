@@ -26,5 +26,16 @@ For the develop of the project I follow the next steps
 ![imagen](https://user-images.githubusercontent.com/81925037/171731427-20002e0b-9d69-4aaf-8a37-7370e8d44d69.png)
 
   10.Train and test KNN and Decision tree with crossvalidation
-  
+
+Results:
+KNN
+
+![imagen](https://user-images.githubusercontent.com/81925037/171735047-d45eb0c8-8c02-4ecb-b656-7341a38753e3.png)
+
+Decision tree 
+
+![imagen](https://user-images.githubusercontent.com/81925037/171735218-565dbd82-2d61-4ecf-bf5c-f87f7eb58480.png)
+
 CONCLUSION: Our models obtained very low results, since there is a large number of data which, even having the same range, results in a different result, this can be seen in the visual analysis, so the data is found with very little relationship, also as It can be seen in the test and validate results, the model overfits the test data but does not generalize to the rest of the data.
+
+Youtube link:https://youtu.be/uxIVAhF40Fc
